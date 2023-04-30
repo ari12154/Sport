@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+
+}
+.perent_Login{
+    max-width: 100%;
+    min-height: 520px;
+   background-image:url(bg\ image\ login\ page.jpg);
+   background-size: 1200px;
+   display: flex ;
+   align-items: center;
+   justify-content: center;
+ 
+}
+.login_div{
+    background-color: rgb(146, 180, 23);
+   opacity: 0.7;
+   border-radius: 20px;
+   padding: 12px;
+}
+
+.inp_name{
+    border-radius: 15px;
+    padding: 4px;
+}
+.inp_pass{
+    border-radius: 15px;
+    padding: 4px;
+}
+.btn_sign{
+    border-radius: 12px;
+    background-color: rgb(14, 6, 44);
+    color: white;
+}

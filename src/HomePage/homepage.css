@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+.nav_main{
+    display: flex;
+    justify-content: space-between;
+    padding: 24px;
+   background-color: greenyellow;
+   
+    background-size: 1200px;
+}
+
+
+/* מכאן זה קשןר למשחק המרכזי */
+.main_perent{
+    
+}
+.main_game{
+    background-color: aqua;
+    margin: 0 auto;
+    max-width: 30%;
+    min-height: 150px;
+    padding: 8px;
+    
+}
+.image_icon{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.btn_bet{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.btn_bet1{
+padding: 12px;
+background-color: chartreuse;
+width: 100px;
+border-radius: 20px;
+
+}
